@@ -1,4 +1,4 @@
-#!/home/gulrez/ML/venv/bin/python3
+#!/home/gulrez/ML/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
